@@ -1,0 +1,9 @@
+.idea
+/.htaccess
+logs/
+*.log
+~*
+/*.sql
+Thumbs.db
+.DS_Store
+._.DS_Store
